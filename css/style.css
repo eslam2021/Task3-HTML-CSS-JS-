@@ -1,0 +1,38 @@
+ main a {
+   text-decoration: none;
+   color: black;
+padding: 0 10px;
+border-radius: 17px;
+border: 10px;
+background-color: white;
+}
+ 
+ header .links a {
+    text-decoration: none;
+    color: white;
+padding: 0 30px;
+ }
+ header .logo img{
+    height: 40px;
+  }
+  main .Oneee img{
+   height: 330px;
+  }
+  .container .icons{
+
+
+  }
+  .container .icons img{
+width: 40px;
+transition: 0.5s;
+cursor: pointer;
+   
+  }
+
+  .container .icons img:hover{
+transform: scale(1.2);
+   
+  }
+  .Main{
+    background-color: black;
+  }
